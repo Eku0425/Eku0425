@@ -1,4 +1,4 @@
-![logo](https://github.com/Eku2526/Eku2526/blob/main/IMG_20231031_134926.jpg?raw=true)
+![logo](https://github.com/Eku0425/Eku0425/blob/f206ddacddb362d3c88ada919f8bc177e664bf7f/IMG_20240114_122905.jpg)
 <h1 align="center">Hi 👋, I'm Ekta Trivedi</h1>
 <h3 align="center">Flutter developer from India</h3>
 
